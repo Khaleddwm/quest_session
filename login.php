@@ -36,7 +36,7 @@ if (isset($_POST['login'])) {
                                               <i class="glyphicon glyphicon-user"></i>
                                             </span>
                                             <input class="form-control" placeholder="Username" name="loginname"
-                                                   type="text" autofocus>
+                                                   type="text" autofocus required>
                                         </div>
                                     </div>
                                     <div class="form-group">
