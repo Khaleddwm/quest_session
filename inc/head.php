@@ -1,4 +1,3 @@
-<?php session_start(); ?>
 <?php require 'config.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
